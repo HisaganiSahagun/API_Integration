@@ -8,4 +8,3 @@
 <p>If you want to see my code the index is in the Resources>Views>LanguageTranslator.Blade.php<br>
 my JavaScript is in Public>js>script.js<br>
 my CSS is in Public>css>style.css</p>
-![indexpic](https://github.com/HisaganiSahagun/API_Integration/assets/105764678/a0e85e4f-2a5c-48a6-9978-c6d8fdba992f)
