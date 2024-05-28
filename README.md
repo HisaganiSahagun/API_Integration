@@ -1,5 +1,4 @@
 <h1>Langauge Translator</h1>
-![indexpic](https://github.com/HisaganiSahagun/API_Integration/assets/105764678/724bdaa2-dc29-47c4-a74d-18c650379463)
 <p> This is a language translator that you can translate different languages. In my response I used Java Script Fetch Method and HTML as my  index. My API is Google Translate , you can see this in Rapid API and it is free but there's a limit.</p>
 <h3>To run this</h3>
 <p>1. In terminal of vs code type Composer Install</p>
