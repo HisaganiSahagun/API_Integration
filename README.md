@@ -8,3 +8,5 @@
 <p>If you want to see my code the index is in the Resources>Views>LanguageTranslator.Blade.php<br>
 my JavaScript is in Public>js>script.js<br>
 my CSS is in Public>css>style.css</p>
+
+<img src="/images/indexpic.png">
